@@ -1,10 +1,9 @@
-upload/
+storage/cache/
 system/storage/cache/
 system/storage/logs/
-system/storage/modification/
-system/storage/upload/
+system/storage/session/
 config.php
 admin/config.php
-vendor/
-*.log
-*.zip
+*.tar.gz
+*.sql
+
